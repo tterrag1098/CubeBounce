@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/Development/Misc/GameTest/lwjgl/jar/AppleJavaExtensions.jar"/>
+	<classpathentry kind="lib" path="E:/Development/Misc/GameTest/lwjgl/jar/asm-debug-all.jar"/>
+	<classpathentry kind="lib" path="E:/Development/Misc/GameTest/lwjgl/jar/jinput.jar"/>
+	<classpathentry kind="lib" path="E:/Development/Misc/GameTest/lwjgl/jar/lwjgl.jar" sourcepath="C:/Users/Garrett/.m2/repository/org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1-sources.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="E:/Development/Misc/GameTest/lwjgl/native"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Development/Misc/GameTest/lwjgl/jar/lwjgl_test.jar"/>
+	<classpathentry kind="lib" path="E:/Development/Misc/GameTest/lwjgl/jar/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="E:/Development/Misc/GameTest/lwjgl/jar/lwjgl_util_applet.jar"/>
+	<classpathentry kind="lib" path="E:/Development/Misc/GameTest/lwjgl/jar/lwjgl-debug.jar"/>
+	<classpathentry kind="lib" path="E:/Development/Misc/GameTest/lwjgl/jar/lzma.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
